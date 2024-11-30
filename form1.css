@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centers content vertically */
+    align-items: center;   /* Centers content horizontally */
+    height: 100vh;         /* Makes body take full viewport height */
+    margin: 0;             /* Removes default margin */
+    font-family: Arial, sans-serif;
+    background-color: #feebff;
+    text-align: center;
+    color: #333;
+    font-size: 80px;
+}
